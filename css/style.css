@@ -1,0 +1,15 @@
+.style
+{
+	background-color:crimson;
+	height:80px;
+	width:40%;
+	border:3px solid blue;
+}
+.box
+{
+background-color:seagreen;	
+	height:40px;
+	width:80px;
+	border:2px solid pink;
+	
+}
